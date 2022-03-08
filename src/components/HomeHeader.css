@@ -1,17 +1,22 @@
 .HeaderMain {
     width: 100%;
     height: 3vh;
-    background-color: #11468F;
+    background-color: white;
     display: flex;
     padding: none;
     margin: none;
 }
 
 .TurnersLogo {
-    width: 7vw;
-    height: 3vh;
+    width: 10vw;
+    height: 1.5vh;
+    padding: none;
+    background-color: none;
 }
-
-.Link {
-    color: black;
-}
+ .button {
+     border: none;
+     background-color: white;
+     border-radius: 12px;
+     text-decoration: none;
+     border: none;
+ }

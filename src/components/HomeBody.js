@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import './HomeBody.css';
 
 function HomeBody() {
   return (
-    <div>
-        <h1>HomeBody</h1>
+    <div className='BodyMain'>
+       
     </div>
   )
 }
