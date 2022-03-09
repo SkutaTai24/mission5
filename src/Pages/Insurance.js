@@ -1,9 +1,10 @@
 import React from 'react';
+import HomeHeader from '../components/HomeHeader';
 
 function Insurance() {
   return (
     <div>
-        <h1>InsurancePage</h1>
+        <HomeHeader/>
     </div>
   );
 }

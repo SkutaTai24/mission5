@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 
-import HomeHeader from '../components/HomeHeader.jsx';
+import HomeHeader from '../components/HomeHeader.js';
 import HomeBody from '../components/HomeBody';
 import HomeFooter from '../components/HomeFooter'
 
