@@ -17,5 +17,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Super-Linter
-      uses: actions/super-linter@v2.1.0
+      uses: actions/super-linter@v4.9.0
    
