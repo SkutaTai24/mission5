@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Mission5/static/css/main.5a6faa85.css",
-    "main.js": "/Mission5/static/js/main.1652913d.js",
-    "static/media/Car1.png": "/Mission5/static/media/Car1.fbe88ba4bf43104450cf.png",
+    "main.css": "/Mission5/static/css/main.01428965.css",
+    "main.js": "/Mission5/static/js/main.6c3f3c30.js",
     "static/media/Tyres.png": "/Mission5/static/media/Tyres.322cee560219a7b48269.png",
+    "static/media/C12.png": "/Mission5/static/media/C12.e6d85402fbea5cf5c3a9.png",
     "static/media/CC1.png": "/Mission5/static/media/CC1.c33b0ca189423d5d4639.png",
     "static/media/FAQs.png": "/Mission5/static/media/FAQs.aca243ece95befd0c8a8.png",
+    "static/media/sun.png": "/Mission5/static/media/sun.3880bba414d2ce448fc3.png",
     "static/media/MVImg.jpg": "/Mission5/static/media/MVImg.07b717e3821c71426584.jpg",
     "static/media/MVBInfo.jpg": "/Mission5/static/media/MVBInfo.62bf926a197224c02bb8.jpg",
     "static/media/TurnersLogo.png": "/Mission5/static/media/TurnersLogo.10730cc000e59f96b1e8.png",
     "static/media/CrossedArms.png": "/Mission5/static/media/CrossedArms.8095c4a33802cd7aafb7.png",
+    "static/media/Socials.png": "/Mission5/static/media/Socials.3a893a2b258f26203d5a.png",
     "static/media/path333.png": "/Mission5/static/media/path333.ad117b1307407aeeaff5.png",
     "static/media/arrow.png": "/Mission5/static/media/arrow.93c41ccf75dc5ca4ec6e.png",
     "index.html": "/Mission5/index.html",
-    "main.5a6faa85.css.map": "/Mission5/static/css/main.5a6faa85.css.map",
-    "main.1652913d.js.map": "/Mission5/static/js/main.1652913d.js.map"
+    "main.01428965.css.map": "/Mission5/static/css/main.01428965.css.map",
+    "main.6c3f3c30.js.map": "/Mission5/static/js/main.6c3f3c30.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a6faa85.css",
-    "static/js/main.1652913d.js"
+    "static/css/main.01428965.css",
+    "static/js/main.6c3f3c30.js"
   ]
 }
