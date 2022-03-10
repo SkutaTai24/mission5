@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mission5/static/css/main.5a6faa85.css",
-    "main.js": "/Mission5/static/js/main.e5fa7419.js",
+    "main.js": "/Mission5/static/js/main.1652913d.js",
     "static/media/Car1.png": "/Mission5/static/media/Car1.fbe88ba4bf43104450cf.png",
     "static/media/Tyres.png": "/Mission5/static/media/Tyres.322cee560219a7b48269.png",
     "static/media/CC1.png": "/Mission5/static/media/CC1.c33b0ca189423d5d4639.png",
@@ -14,10 +14,10 @@
     "static/media/arrow.png": "/Mission5/static/media/arrow.93c41ccf75dc5ca4ec6e.png",
     "index.html": "/Mission5/index.html",
     "main.5a6faa85.css.map": "/Mission5/static/css/main.5a6faa85.css.map",
-    "main.e5fa7419.js.map": "/Mission5/static/js/main.e5fa7419.js.map"
+    "main.1652913d.js.map": "/Mission5/static/js/main.1652913d.js.map"
   },
   "entrypoints": [
     "static/css/main.5a6faa85.css",
-    "static/js/main.e5fa7419.js"
+    "static/js/main.1652913d.js"
   ]
 }
