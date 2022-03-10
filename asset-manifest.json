@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2b7f58a.css",
-    "main.js": "/static/js/main.000e579d.js",
-    "static/media/Car1.png": "/static/media/Car1.fbe88ba4bf43104450cf.png",
-    "static/media/Tyres.png": "/static/media/Tyres.322cee560219a7b48269.png",
-    "static/media/CC1.png": "/static/media/CC1.c33b0ca189423d5d4639.png",
-    "static/media/FAQs.png": "/static/media/FAQs.aca243ece95befd0c8a8.png",
-    "static/media/MVImg.jpg": "/static/media/MVImg.07b717e3821c71426584.jpg",
-    "static/media/MVBInfo.jpg": "/static/media/MVBInfo.62bf926a197224c02bb8.jpg",
-    "static/media/TurnersLogo.png": "/static/media/TurnersLogo.10730cc000e59f96b1e8.png",
-    "static/media/CrossedArms.png": "/static/media/CrossedArms.8095c4a33802cd7aafb7.png",
-    "static/media/path333.png": "/static/media/path333.ad117b1307407aeeaff5.png",
-    "static/media/arrow.png": "/static/media/arrow.93c41ccf75dc5ca4ec6e.png",
-    "index.html": "/index.html",
-    "main.e2b7f58a.css.map": "/static/css/main.e2b7f58a.css.map",
-    "main.000e579d.js.map": "/static/js/main.000e579d.js.map"
+    "main.css": "/Mission5/static/css/main.e2b7f58a.css",
+    "main.js": "/Mission5/static/js/main.3209c6a9.js",
+    "static/media/Car1.png": "/Mission5/static/media/Car1.fbe88ba4bf43104450cf.png",
+    "static/media/Tyres.png": "/Mission5/static/media/Tyres.322cee560219a7b48269.png",
+    "static/media/CC1.png": "/Mission5/static/media/CC1.c33b0ca189423d5d4639.png",
+    "static/media/FAQs.png": "/Mission5/static/media/FAQs.aca243ece95befd0c8a8.png",
+    "static/media/MVImg.jpg": "/Mission5/static/media/MVImg.07b717e3821c71426584.jpg",
+    "static/media/MVBInfo.jpg": "/Mission5/static/media/MVBInfo.62bf926a197224c02bb8.jpg",
+    "static/media/TurnersLogo.png": "/Mission5/static/media/TurnersLogo.10730cc000e59f96b1e8.png",
+    "static/media/CrossedArms.png": "/Mission5/static/media/CrossedArms.8095c4a33802cd7aafb7.png",
+    "static/media/path333.png": "/Mission5/static/media/path333.ad117b1307407aeeaff5.png",
+    "static/media/arrow.png": "/Mission5/static/media/arrow.93c41ccf75dc5ca4ec6e.png",
+    "index.html": "/Mission5/index.html",
+    "main.e2b7f58a.css.map": "/Mission5/static/css/main.e2b7f58a.css.map",
+    "main.3209c6a9.js.map": "/Mission5/static/js/main.3209c6a9.js.map"
   },
   "entrypoints": [
     "static/css/main.e2b7f58a.css",
-    "static/js/main.000e579d.js"
+    "static/js/main.3209c6a9.js"
   ]
 }
