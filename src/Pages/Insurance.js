@@ -1,12 +1,12 @@
-import React from 'react';
-import HomeHeader from '../components/HomeHeader';
+import React from 'react'
+import HomeHeader from '../components/HomeHeader'
 
-function Insurance() {
+function Insurance () {
   return (
     <div>
-        <HomeHeader/>
+      <HomeHeader />
     </div>
-  );
+  )
 }
 
-export default Insurance;
+export default Insurance

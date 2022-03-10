@@ -1,9 +1,9 @@
 import React from 'react'
 
-function HomeFooter() {
+function HomeFooter () {
   return (
     <div>
-        <h1>HomeFooter</h1>
+      <h1>HomeFooter</h1>
     </div>
   )
 }
