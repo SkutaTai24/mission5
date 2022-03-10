@@ -1,12 +1,36 @@
 .MVMain {
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-repeat: no-repeat;
 }
-.Tyres {
+
+.mainText {
     width: 100%;
+    background-image: url('../img/Tyres.png');
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    font-size: 18px;
 }
 
 .MVBInfo {
-    width: 80%;
-    margin-left: -150px;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.MVMain > h4 {
+    color: white;
+    font-size: 24px;
+}
+
+.CoverTxt {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
 }

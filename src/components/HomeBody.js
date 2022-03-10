@@ -33,7 +33,9 @@ function HomeBody () {
         <h3>Signup/Login</h3>
         <img className='arrow' src={arrow} alt='arrow' />
         <h3>Payments</h3>
-      </div><div className='Sub_Body'>
+      </div>
+      
+      <div className='Sub_Body'>
         <img className='path333' src={path333} alt='path333' />
 
         <div className='Top-Mid'>
@@ -45,7 +47,7 @@ function HomeBody () {
         <div className='Top-Right'>
           <img className='CrossedArms' src={CrossedArms} alt='CrossedArms' />
           <NavLink to='/' className='TopBody-buttons'>Back</NavLink>
-          <NavLink to='/Quote' className='TopBody-buttons1'>Get an Online Quote</NavLink>
+          <NavLink to='/Quotes' className='TopBody-buttons1'>Get an Online Quote</NavLink>
         </div>
             </div>
 
@@ -81,8 +83,9 @@ function HomeBody () {
       <div className='BodyLast'>
         <NavLink to='/Quotes' className='midButtons'>Get an online Quote</NavLink>
         <NavLink to='/' className='midButtons1'>View our Policy</NavLink>
-        <img className='FAQs' src={FAQs} alt='FAQs' />
       </div>
+        <img className='FAQs' src={FAQs} alt='FAQs' />
+      
 
     </div>
   )

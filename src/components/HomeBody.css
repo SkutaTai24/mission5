@@ -1,6 +1,6 @@
 .BodyMain {
     width: 100%;
-    height: 1840px;
+    height: 2440px;
     text-decoration: none;
     background-color: #d7dff0;
     padding-left: 90px;
@@ -98,6 +98,7 @@
 
  .button-selectors:hover {
     background-color: #CA2C43;
+    color: white;
 }
 .Top-Mid >h4 {
     margin-top: 50px;
@@ -110,7 +111,7 @@
     border-color: #9D2031;
     border-style: solid;
     height: 80px;
-    margin-top: -50px;
+    margin-top: -0px;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -150,4 +151,15 @@
     padding: 20px;
     border-radius: 3px;
     margin-top: -20px;
+}
+
+.FAQs {
+    width: 80%;
+    margin-top: 40px;
+   margin-left: 100px;
+}
+
+.BodyLast {
+    display: flex;
+    justify-content: space-around;
 }
