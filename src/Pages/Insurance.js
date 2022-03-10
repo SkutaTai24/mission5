@@ -5,6 +5,7 @@ function Insurance () {
   return (
     <div>
       <HomeHeader />
+      <h1>TEST1</h1>
     </div>
   )
 }
