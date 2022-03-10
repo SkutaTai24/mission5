@@ -20,8 +20,8 @@
     margin-left: 70px;
     color: black;
 }
-.header-signup-buttons {
-    background-color: hwb(235 28% 46%);
+.SignUp {
+    background-color: #11468F;
     color: white;
     border-radius: 4px;
     width: 6vw;
@@ -31,26 +31,33 @@
     padding: 5px;
     font-size: 14px;
     margin-left: 20px;
+    border: none;
+    cursor: pointer;
+    height: 35px;
 }
 
-.header-login-buttons {
+.Login {
     background-color: hwb(0 100% 0%);
     color: black;
     border-radius: 4px;
     width: 6vw;
-    height: 0.5vh;
+    height: 35px;
     text-decoration: none;
     text-align: center;
     padding: 5px;
     font-size: 14px;
-    margin-left: 150px;
-    border-width: 5px;
-    box-sizing: border-box;
+    margin-left: 200px;
+    border-width: 2px;
+    border-color: black;
+    align-content: center;
+    text-align: center;
+    padding: 0px, 0px, 4px, 0px;
+    cursor: pointer;
 }
 
 .person {
     width: 2vw;
-    margin-left: 100px;
+    margin-left: 115px;
 }
 
 .settings {

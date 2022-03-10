@@ -14,8 +14,8 @@ function HomeHeader() {
         <NavLink to="/"className='header-buttons'> Sell a car</NavLink>
         <NavLink to="/Insurance" className='header-buttons' >Insurance</NavLink>
         <NavLink  to="/"className='header-buttons'>Finance</NavLink>
-        <NavLink  to="/"className='header-login-buttons'>Login</NavLink>
-        <NavLink  to="/"className='header-signup-buttons'>Sign up</NavLink>
+        <button className="Login" type='button'>Login</button>
+        <button className='SignUp'>Sign up</button>
         <img className='person' src= { person } alt='person'/>
         <img className='settings' src= {settings } alt='settings'/>
         

@@ -1,10 +1,10 @@
 .BodyMain {
     width: 100%;
-    height: 2240px;
+    height: 1840px;
     text-decoration: none;
-    background-color: #e6e6ff;
-    padding-left: 70px;
-    padding-right: 70px;
+    background-color: #d7dff0;
+    padding-left: 90px;
+    padding-right: 90px;
 }
 
 
@@ -14,6 +14,19 @@
     background-color: #11468F;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+    display: flex;
+}
+.Progression-bar > h3 {
+    color: white;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.arrow {
+    margin-left: 50px;
+    margin-top: 10px;
+    height: 30px;
 }
 
 .Sub_Body {
@@ -23,38 +36,118 @@
 }
 
 .Top-Right {
-    width: 20vw;
+    width: 25vw;
     height: 350px;
-    background-color: green;
+    background-color: none;
     float: right;
-    margin-right: -200px;
+    margin-right: -300px;
+}
+.TopBody-buttons {
+    text-decoration: none;
+    border-style: solid;
+    border-color: #11468F;
+    background-color: white;
+    border-width: 1px;
+    margin-left: 50px;
+    border-radius: 3px;
+    padding: 20px;
+    font-size: 12px;
+    margin-top: -500px;
+    color: black;
+}
+.TopBody-buttons1 {
+    text-decoration: none;
+    border-style: solid;
+    border-color: #11468F;
+    background-color: #11468F;
+    border-width: 1px;
+    margin-left: 50px;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 12px;
+    margin-top: 0px;
+    color: white;
 }
 .path333 {
-    width: 10%;
-    height: 10%;
+    width: 15%;
+    height: 15%;
 }
 .CrossedArms {
-    width: 450px;
+    width: 300px;
     margin-right: 200px;
+    margin-top: 0px;
 }
 
 .button-selectors {
-    width: 7vw;
+    width: 170px;
     height: 0.7vh;
-    z-index: 1000;
-    border-color: #9D2031;
-    border-width: 1px;
-    border-radius:6px;
-    margin-top: 100px;
     margin-left: 50px;
+    margin-top: 50px;
 }
  .Top-Mid {
-    margin-left: 240px;
-    width: 600px;
-    background-color: blue;
-    height: 350px;
+    margin-left: 50px;
+    width: 700px;
+    background-color: none;
+    height: 200px;
     text-align: center;
+    align-content: center;
  }
- .MBI, {
+ .MBI {
      display: flex;
  }
+
+ .button-selectors:hover {
+    background-color: #CA2C43;
+}
+.Top-Mid >h4 {
+    margin-top: 50px;
+}
+
+/* Redbox area */
+
+.Redbox {
+    width: 100%;
+    border-color: #9D2031;
+    border-style: solid;
+    height: 80px;
+    margin-top: -50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 9px;
+    
+}
+.Redbox > p {
+    font-size: 12px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.imgs {
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.MBI > h3, p {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.midButtons {
+    text-align: center;
+    text-decoration: none;
+    background-color: #11468F;
+    color: white;
+    padding: 20px;
+    border-radius: 3px;
+}
+.midButtons1 {
+    text-align: center;
+    text-decoration: none;
+    background-color: #9D2031;
+    float: right;
+    color: white;
+    padding: 20px;
+    border-radius: 3px;
+    margin-top: -20px;
+}
