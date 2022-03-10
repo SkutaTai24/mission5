@@ -4,9 +4,6 @@
 name: Turners CI/CD
 
 on:
-   label:
-    types:
-      - created
   push:
     branches: [ main ]
   pull_request:
