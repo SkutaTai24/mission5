@@ -5,7 +5,7 @@ name: Turners CI/CD
 
 on:
   push:
-    branches: [ deploy ]
+    branches: [ Main ]
  
 jobs:
   build:
