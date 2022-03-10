@@ -5,14 +5,12 @@ name: Turners CI/CD
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [ deploy ]
  
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: gh
 
     strategy:
       matrix:
